@@ -26,6 +26,7 @@ Upload the main.py file to your device.
 
 The script will start automatically on boot.
 
-<video src="https://github.com/zadvinick/esp32-traffic-light/blob/main/presentation.mp4" width="400" controls>
+DEMO
+<video src="https://github.com/zadvinick/esp32-traffic-light/raw/main/presentation.mp4" width="400" controls>
   Your browser does not support the video tag.
 </video>
