@@ -26,6 +26,6 @@ Upload the main.py file to your device.
 
 The script will start automatically on boot.
 
-DEMO
-<img width="154" height="274" alt="presentation" src="https://github.com/user-attachments/assets/0e178cda-88fb-426e-9876-46d5cb1d047c" />
+
+<img width="450" height="750" alt="presentation" src="https://github.com/user-attachments/assets/0e178cda-88fb-426e-9876-46d5cb1d047c" />
 
